@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Automate_PDF_Printing2016 Command</Text>
+    <Description></Description>
+    <Assembly>Automate_PDF_Printing2016.dll</Assembly>
+    <FullClassName>SOM.RevitTools.Automate_PDF_Printing2016.Command</FullClassName>
+    <ClientId>ba17f1f4-f78a-4772-a015-957e798fa074</ClientId>
+    <VendorId>SOM1</VendorId>
+    <VendorDescription>Skidmore Owings and Merrill, http://www.som.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Automate_PDF_Printing2016 Application </Name>
+    <Assembly>Automate_PDF_Printing2016.dll</Assembly>
+    <FullClassName>SOM.RevitTools.Automate_PDF_Printing2016.App</FullClassName>
+    <ClientId>86fe441b-d3a0-4261-abc5-d65a7aa207f9</ClientId>
+    <VendorId>SOM1</VendorId>
+    <VendorDescription>Skidmore Owings and Merrill, http://www.som.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
